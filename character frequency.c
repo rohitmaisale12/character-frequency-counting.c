@@ -22,3 +22,9 @@ int main(){
 	}
 	return 0;
 }
+output:--
+	enter the string:google
+g:2
+o:2
+l:1
+e:1
